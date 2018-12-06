@@ -32,6 +32,7 @@ This session talked about why serverless. how distribute traffic (DNS), Amazon A
 
 [Example repo](https://github.com/aws-samples/aws-modern-application-workshop/tree/fargate/workshop-1)
 
+
 ## Actions
 Discuss with team about: 
 1. How can we reduce deploy downtown? What would be the bottleneck to minimun downtown? 
